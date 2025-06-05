@@ -37,8 +37,8 @@ var emails = [
 ];
 
 var urls=[
-	'envxuau.xyz',
-	'envxuau.xyz',
+	'dwnnqbfy.xyz',
+	'dwnnqbfy.xyz',
 	'envxuau.xyz',
 ];
                                                                                                                   
