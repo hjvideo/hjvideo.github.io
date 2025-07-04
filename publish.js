@@ -33,14 +33,17 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'ceshi1957@gmail.com'
+    'hlcgwcom@gmail.com'
 ];
 
 var urls=[
-	'xx.top',
+	'https://ceiling.gvefydbk.top/',
+        'https://almost.gvefydbk.top/',
+        'https://avoid.gvefydbk.top/',
+        'https://ceiling.gvefydbk.top/',
 ];
                                                                                                                   
-var JumpPage="https://hjvideo1.com";
+var JumpPage="https://hlcgw55.com";
 
 var newestUrls = [];
 
@@ -55,7 +58,7 @@ var otherUrls = [
 	'https://hjvideo.netlify.app',
 ];
 var foreverUrls = [
-    'https://hjvideo.com',JumpPage
+    'https://hlcgw.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
