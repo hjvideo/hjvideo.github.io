@@ -37,8 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'xyexask.top',
-	'xrrrxtd.top',
+	'xx.top',
 ];
                                                                                                                   
 var JumpPage="https://hjvideo1.com";
